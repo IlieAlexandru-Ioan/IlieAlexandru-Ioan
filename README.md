@@ -7,4 +7,3 @@
 - 📫 How to reach me: https://www.linkedin.com/in/alexandru-ioan-ilie-496518193/
 - 😄 Pronouns: He / His
 - ⚡ Fun fact: Real programmers count from 0.
--->
